@@ -2,7 +2,7 @@ title:              roundtail
 email:              damjan.babic93@gmail.com
 description:        A Blog Theme by Start Bootstrap
 author:             roundtail
-baseurl:            
+baseurl:            ""
 url:                "https://roundtail.github.io"
 
 # Social Profiles
